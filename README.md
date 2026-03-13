@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xrb114&show_icons=true&locale=en" alt="xrb114" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xrb114&" alt="xrb114" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xrb114&label=Profile views&color=0e75b6&style=flat" alt="xrb114" /> </p>
+
