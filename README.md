@@ -5,7 +5,7 @@
 - 🔭 我目前正在做：**一边玩一边学习，打算玩车并下赛道**
 - 🌱 我目前正在学习：**基础 ECU 知识和赛道相关知识**
 - 📫 联系方式：**[xrb1145@gmail.com](xrb1145@gmail.com)**
-- 👨‍💻 我的所有项目都在： **[https://bytegeek.icu/](https://bytegeek.icu/)**
+- 👨‍💻 我的所有项目都在： **[xrb114](https://github.com/xrb114?tab=repositories)**
 - 📝 我会定期写文章： **[https://bytegeek.icu/](https://bytegeek.icu/)**
 
 <h3 align="left">联系我:</h3>
@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xrb114&show_icons=true&locale=en" alt="xrb114" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xrb114&" alt="xrb114" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xrb114&label=Profile views&color=0e75b6&style=flat" alt="xrb114" /> </p>
