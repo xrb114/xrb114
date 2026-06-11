@@ -23,15 +23,15 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
     <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=lingview&theme=tokyo-night&hide_border=true&area=true&custom_title=活跃日期~+(Coding+to+the+Beat)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=xrb114&theme=tokyo-night&hide_border=true&area=true&custom_title=活跃日期~+(Coding+to+the+Beat)" 
       media="(prefers-color-scheme: dark)" 
     />
-    <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=lingview&theme=tokyo-night&hide_border=true&area=true&custom_title=活跃日期~+(Coding+to+the+Beat)" alt="Activity Graph"/>
+    <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=xrb114&theme=tokyo-night&hide_border=true&area=true&custom_title=活跃日期~+(Coding+to+the+Beat)" alt="Activity Graph"/>
   </picture>
 
   <!-- Streak 统计 - 支持亮色暗色模式 -->
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=lingview&theme=default&hide_border=true&background=ffffff&stroke=66ccff&ring=66ccff&fire=66ccff&currStreakLabel=333333&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=666666" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=xrb114&theme=default&hide_border=true&background=ffffff&stroke=66ccff&ring=66ccff&fire=66ccff&currStreakLabel=333333&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=666666" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=lingview&theme=tokyonight&hide_border=true&background=0D1117&stroke=66ccff&ring=66ccff&fire=66ccff&currStreakLabel=66ccff" media="(prefers-color-scheme: dark)"/>
   </picture>
 </div>
